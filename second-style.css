@@ -143,9 +143,15 @@
     
 
 }
+.link{
+    
+    background-color: rgba(221, 0, 0, 1)
+    
+   
+}
 
 .blog :nth-child(3){
-    background-color: rgba(221, 0, 0, 1);
+    background-color: white;
 }
 
 
